@@ -3,12 +3,12 @@
 	"requestId" : "7f83-b0c4-90e0-90b3-11e10800200c9a66",
 	"response" : {
 		"transactionId": "1234567890",
-		"phoneNumber": "13039998877",
+		"phoneNumber": "13039998977",
 		"lineType": "mobile",
-		"carrier": "AT&T Wireless",
-		"countryCode": "US",
+		"carrier": "Telus Wireless",
+		"countryCode": "CA",
 		"verified": true,
-		"trustScore": 892,
+		"trustScore": 981,
 		"reasonCodes": [
 			"LP",
 			"LS"
