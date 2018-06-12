@@ -4,12 +4,16 @@ This MockService is to serve the purpose of making up a service provider and all
 
 ## Build
 cd [Project Folder]
+
 npm install
 
 ## Run
 cd [Project Folder]
+
 node index.js
+
 OR
+
 nodemon index.js
 
 ## How it works
