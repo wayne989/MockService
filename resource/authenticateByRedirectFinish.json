@@ -1,0 +1,14 @@
+{
+	"Description" : "Success",
+	"RequestId": "7f8390e0-90b3-11e1-b0c4-0800200c9a66",
+	"Response": {
+		"AuthenticateFinishTransactionId" : "144356671",
+		"PayfoneAlias": "C24C4C54DR10481C4E0U44ERMVUP9S1TUNXPLA2T753ETMCFOA086TYMCAQL00B4E0CLC4C24BHZPO4QWPN68EAV14ERTVPMMEP7OCXTRBQR17YERTMK749",
+		"AuthenticationCode":   "F22440010AC782406249CFE0560F68EF",
+		"AuthenticationExpiration": "2017-10-03T17:48:18.000Z",
+		"MobileNumber": "15553031212",
+		"MobileCountryCode": "310",
+		"MobileOperatorName": "Verizon"
+	},
+	"Status": 0
+}

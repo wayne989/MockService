@@ -1,0 +1,9 @@
+{
+	"RequestId": "7f83-b0c4-90e0-90b3-11e10800200c9a66",
+	"Description": "Success.",
+	"Response": {
+		"AuthenticateTransactionId": "e18f743e-a1b7-4d12-b8a7-a3569a76b110",
+		"RedirectTargetUrl": "http://api.payfone.com/mobileauth/2014/07/01/deviceAuthenticate?vfp=5a5445345a6a63304d325574595446694e7930305a4445794c5749345954637459544d314e6a6c684e7a5a694d544577664442384d4877773a7ccf0265f278779e01961252bb4c1c8d989d1bba21642f38e17338d9e4a87a25"
+	},
+	"Status": 0
+}
