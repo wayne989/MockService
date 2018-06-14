@@ -19,7 +19,7 @@ nodemon index.js
 ## How it works
 drop a file with extension .json inside [Project Folder]/resource
 for example, [Project Folder]/resource/verify.json
-after the service started in local, it is going to service with the url http://localhost:8200/mockService/verify
-or the url http://localhost:8200/ReadFile?id=verify
+after the service started in local, it is going to service with the url http://localhost:8200/mockService/token
+or the url http://localhost:8200/ReadFile?id=token
 it will accept GET or POST
 the service log will show request url, headers, parameters, payload
